@@ -24,12 +24,12 @@ criaCartao(
 
 criaCartao(
     'História',
-    'Quem descobriu o Brasil',
+    'Quem descobriu o Brasil?',
     'Pedrinho matador'
 )
 
 criaCartao(
     'Futebol',
-    'Quem construiu o estádio do Vasco',
+    'Quem construiu o estádio do Vasco?',
     'Conserta Felix'
 )
