@@ -7,29 +7,29 @@ criaCartao(
 criaCartao(
     'Vasco',
     'Quem fundo o Vasco?',
-    'Mateus Ferreira Biazzeto'
+    'Mateus Ferreira Biazzeto',
 )
 
 criaCartao(
     'Batata',
-    'Quem plantou batata em contenda?'
+    'Quem plantou batata em contenda?',
     'Mateus Ferreira Biazzeto'
 )
 
 criaCartao(
     'Futebol',
-    'Quem é conhecido por ser pai do Flamengo?'
+    'Quem é conhecido por ser pai do Flamengo?',
     'O vasco'
 )
 
 criaCartao(
     'História',
-    'Quem descobriu o Brasil'
+    'Quem descobriu o Brasil',
     'Pedrinho matador'
 )
 
 criaCartao(
     'Futebol',
-    'Quem construiu o estádio do Vasco'
+    'Quem construiu o estádio do Vasco',
     'Conserta Felix'
 )
